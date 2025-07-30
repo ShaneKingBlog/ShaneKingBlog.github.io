@@ -4,7 +4,7 @@
 baseurl:
 url: https://blog.shaneking.org
 date_format: "ordinal"
-title: ShaneKing
+title: ShaneKing's Blog
 subtitle: "有梦才有精彩！"
 description: "ShaneKing's Blog"
 keywords: ShaneKing, sk, org.shaneking, Azolla, Maogu
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 author: ShaneKing
 organization: 爱存不存
 organization_url: https://blog.shaneking.org
-github_username: ShaneKing
+github_username: ShaneKingBlog
 location: Shanghai, China
 email: github@shaneking.org
 
