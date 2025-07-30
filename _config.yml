@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://shaneking.org
+url: https://blog.shaneking.org
 date_format: "ordinal"
 title: ShaneKing
 subtitle: "有梦才有精彩！"
@@ -17,7 +17,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: ShaneKing
 organization: 爱存不存
-organization_url: https://shaneking.org
+organization_url: https://blog.shaneking.org
 github_username: ShaneKing
 location: Shanghai, China
 email: github@shaneking.org
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: ShaneKing/ShaneKing.github.io
+repository: ShaneKingBlog/ShaneKingBlog.github.io
 
 # ---------------- #
 #      Comments    #
@@ -99,7 +99,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: ShaneKing
-    repo: ShaneKing.github.io
+    repo: ShaneKingBlog.github.io
     clientID: 9ba380c92e91d2a9b85c
     clientSecret: 9def192ccb6d66bd07e9cdbd5d2a5181a600030c
 # 在使用其它评论组件时可点击显示 Disqus
