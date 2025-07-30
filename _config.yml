@@ -98,10 +98,10 @@ gitment:
         client_secret:
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ShaneKing
+    owner: ShaneKingBlog
     repo: ShaneKingBlog.github.io
-    clientID: 9ba380c92e91d2a9b85c
-    clientSecret: 9def192ccb6d66bd07e9cdbd5d2a5181a600030c
+    clientID: Ov23liAJb3v41bfVBkSD
+    clientSecret: 10bd0bcc65dc46d42196e675160bcb65b4f9975d
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
