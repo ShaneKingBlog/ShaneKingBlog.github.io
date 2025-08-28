@@ -102,6 +102,7 @@ gitalk:
     repo: ShaneKingBlog.github.io
     clientID: Ov23liAJb3v41bfVBkSD
     clientSecret: 10bd0bcc65dc46d42196e675160bcb65b4f9975d
+    admin: [ShaneKingBlog]
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
