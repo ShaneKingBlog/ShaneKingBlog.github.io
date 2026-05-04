@@ -11,7 +11,7 @@ MOUNT_PATH=""
 OSS_ENDPOINT="http://oss-cn-shanghai-internal.aliyuncs.com"
 
 
-#https://shaneking.org/images/posts/2018/07/ossfs_1.80.5_centos7.0_x86_64.rpm
+#https://blog.shaneking.org/images/posts/2018/07/ossfs_1.80.5_centos7.0_x86_64.rpm
 wget http://docs-aliyun.cn-hangzhou.oss.aliyun-inc.com/assets/attach/32196/cn_zh/1527232195135/ossfs_1.80.5_centos7.0_x86_64.rpm
 
 yum -y localinstall ossfs_1.80.5_centos7.0_x86_64.rpm

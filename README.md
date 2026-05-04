@@ -1,4 +1,4 @@
-# [ShaneKing's Blog](http://shaneking.org/)
+# [ShaneKing's Blog](http://blog.shaneking.org/)
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 

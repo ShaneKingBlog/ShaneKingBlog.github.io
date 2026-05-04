@@ -36,5 +36,5 @@ Via: 1.1 vegur
 https://ShaneKing.github.io%
 ```
 
-效果：通过访问 <https://git.io/shaneking> 看到浏览器先重定向到 <https://ShaneKing.github.io> ，再重定向到 <https://shaneking.org/> 。
+效果：通过访问 <https://git.io/shaneking> 看到浏览器先重定向到 <https://ShaneKing.github.io> ，再重定向到 <https://blog.shaneking.org/> 。
 ![](/images/posts/2020/11/WX20201122-192216@2x.png)

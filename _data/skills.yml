@@ -30,6 +30,6 @@
     - Redis
 
 - name: Thinking
-  url: https://shaneking.org/categories/#Thinking
+  url: https://blog.shaneking.org/categories/#Thinking
   keywords:
     - Design Pattern
